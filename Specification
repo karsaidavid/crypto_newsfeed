@@ -1,17 +1,17 @@
-Sapientia Advertiser Projekt
-(Cryptocurrency newsfeed)
+Cryptocurrency newsfeed project
 Karsai István Dávid
 Orbán Róbert László
 
 Funkcionális követelmények:
 1. bejelentkezés/regisztráció
-2. hirdetések listázása (itt látható kell legyen a megtekintések száma is)
-3. új hirdetés felvitele
+2. hírek listázása 
+3. hirdetés lementése
 4. profil kezelése
-5. saját hirdetések listázása
-6. hirdetés törlése (elrejtés)
-7. hirdetés jelentése
-8. hirdetés megosztása (alapértelmezett Android Intent)
+5. lementett hírek listázása
+6. hír megosztása
+7. keresés szavak alapján
+8. hirek kiválasztott téma szerinti megjelenítés
+
 
 
 
