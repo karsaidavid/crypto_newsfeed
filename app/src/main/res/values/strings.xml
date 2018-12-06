@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">crypto_newsfeed</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_side_menu">SideMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="feed">feed</string>
+    <string name="title_activity_feed">FeedActivity</string>
 </resources>
