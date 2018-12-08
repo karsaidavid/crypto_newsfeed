@@ -20,7 +20,8 @@
         </activity>
         <activity android:name=".ProfileActivity" />
         <activity android:name=".VerifyPhoneActivity" />
-        <activity android:name=".NavigationActivity"></activity>
+        <activity android:name=".NavigationActivity" />
+        <activity android:name=".FeedActivity"></activity>
     </application>
 
 </manifest>

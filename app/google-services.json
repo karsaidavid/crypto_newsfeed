@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754456239118",
+    "firebase_url": "https://cryptonewsfeed-9fa93.firebaseio.com",
+    "project_id": "cryptonewsfeed-9fa93",
+    "storage_bucket": "cryptonewsfeed-9fa93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754456239118:android:c56c0a0235c03bd7",
+        "android_client_info": {
+          "package_name": "com.example.karsa.crypto_newsfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754456239118-oufia6uv3fucca03fssioksunnp1icjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karsa.crypto_newsfeed",
+            "certificate_hash": "3b32b1d34dc77f642b633a51d4004771f6ddf275"
+          }
+        },
+        {
+          "client_id": "754456239118-qfl01lu5n7p352528d5d9ne1sq0t8k09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixOeXalS-e15oz9Ws-4a3WcSUTt2j3YY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754456239118-qfl01lu5n7p352528d5d9ne1sq0t8k09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

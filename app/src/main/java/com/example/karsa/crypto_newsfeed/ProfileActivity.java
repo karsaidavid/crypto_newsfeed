@@ -63,8 +63,8 @@ public class ProfileActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 Toast.makeText(ProfileActivity.this, "Opening feed", Toast.LENGTH_SHORT).show();
 
-                //Intent aboutScreen = new Intent(ProfileActivity.this, FeedActivity.class);
-                //startActivity(aboutScreen);
+                Intent aboutScreen = new Intent(ProfileActivity.this, FeedActivity.class);
+                startActivity(aboutScreen);
             }
         });
     }
